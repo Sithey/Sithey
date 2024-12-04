@@ -1,6 +1,26 @@
 # 💫 About Me:
-Hi! I'm a backend developer with a passion for teaching and creating. Whether it's running my own server hosting company or helping young minds learn programming, I love bringing ideas to life and solving challenges through technology.
+Hi there! I'm passionate about technology and love bringing ideas to life through code. Here's a bit more about me:
 
+🛠️ Professional Experience
+Founder at [SharpHeberg](https://sharpheberg.com/): For the past two years, I've been running my own server hosting and development company, providing reliable services to a growing community.
+Development Teacher at [Codii](https://codii.fr/): I teach children programming fundamentals through Scratch, Python, and Java. Teaching not only allows me to share my knowledge but also helps me grow as a developer.
+Developer: My expertise lies in backend development, creating APIs, and crafting robust solutions in Java and MongoDB.
+🚀 Current Projects
+Building bots for Telegram using Python.
+Developing web applications with Next.js.
+Creating custom Minecraft plugins in Java.
+
+📚 Skills
+Strongest in: Java.
+
+🎯 Goals & Aspirations
+Becoming a skilled Full-Stack Developer.
+Continuing to teach and inspire young programmers, as I wish I'd been introduced to programming earlier in life.
+🎾 Hobbies & Interests
+When I'm not coding, you can find me enjoying a game of tennis, playing video games, or exploring new tech tools.
+
+🌟 My Philosophy
+I believe technology is a tool to solve problems and make the world a better place. Let's build something great together!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raphael518/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/SitheyMC) 
